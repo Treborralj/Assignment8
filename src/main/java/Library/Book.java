@@ -8,7 +8,10 @@ public class Book {
 
     private List<Author> authors;
 
-    public Book(String title, List<Author> authors) {
+    public Book(String title, List<Author> authors)throws EmptyAuthorListException {
+        if(authors.size() == 0){
+            throw new EmptyAuthorListException("Author list is empty");
+        }
         this.title = title;
         this.authors = authors;
     }
@@ -24,7 +27,10 @@ public class Book {
         this.title = title;
     }
 
-    public List<Author> getAuthors() {
+    public List<Author> getAuthors() throws EmptyAuthorListException {
+        if(authors.size() == 0){
+            throw new EmptyAuthorListException("Author list is empty");
+        }
         return authors;
     }
 

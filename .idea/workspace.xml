@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60075743-2884-48b1-a4b3-868b2d0ae410" name="Changes" comment="bætti við klösum">
+    <list default="true" id="60075743-2884-48b1-a4b3-868b2d0ae410" name="Changes" comment="búin með Book, Student, User og Author">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Library/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Library/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Library/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Library/FacultyMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library/FacultyMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Library/Lending.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library/Lending.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Library/LibrarySystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library/LibrarySystem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678186415868</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="búin með Book, Student, User og Author">
+      <created>1678187870179</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678187870179</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +115,7 @@
     <MESSAGE value="firsta commit" />
     <MESSAGE value="Annað commit" />
     <MESSAGE value="bætti við klösum" />
-    <option name="LAST_COMMIT_MESSAGE" value="bætti við klösum" />
+    <MESSAGE value="búin með Book, Student, User og Author" />
+    <option name="LAST_COMMIT_MESSAGE" value="búin með Book, Student, User og Author" />
   </component>
 </project>

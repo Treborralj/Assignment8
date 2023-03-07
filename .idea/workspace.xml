@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60075743-2884-48b1-a4b3-868b2d0ae410" name="Changes" comment="Annað commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Library/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Library/LibrarySystem.java" afterDir="false" />
+    <list default="true" id="60075743-2884-48b1-a4b3-868b2d0ae410" name="Changes" comment="bætti við klösum">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Library/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Library/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Library/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678185684352</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Annað commit">
+      <created>1678186327651</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678186327651</updated>
+    </task>
+    <task id="LOCAL-00005" summary="bætti við klösum">
+      <created>1678186415868</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678186415868</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +106,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="firsta commit" />
     <MESSAGE value="Annað commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Annað commit" />
+    <MESSAGE value="bætti við klösum" />
+    <option name="LAST_COMMIT_MESSAGE" value="bætti við klösum" />
   </component>
 </project>
